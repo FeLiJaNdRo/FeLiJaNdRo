@@ -39,7 +39,7 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 Lenguajes de Programación
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=blue&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/R-skyblue?style=flat&logo=r&logoColor=white&logoSize=auto">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=blue&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/R-skyblue?style=flat&logo=r&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-blue?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/-php-purple?style=flat&logo=php"> 
 
 Frameworks de Ciencia de Datos y Machine Learning
 
