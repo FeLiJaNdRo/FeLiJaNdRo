@@ -31,7 +31,9 @@ Soy Felipe Muñoz Marín, estudiante de Ingeniería Civil Industrial de la Unive
 
 ### 🧑‍💻 Experiencias en Ciencias de Datos
 
-* 🏦 (2025) **Banco de Chile- Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital**: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización 
+* 🏦 (2025) **Banco de Chile- Práctica I: Célula Analítica Avanzada | Gerencia Marketing, Tecnología y Dígital**: Desarrollé una librería en Python para automatizar la evaluación de modelos de clasificación y regresión, incluyendo generación de reportes y análisis de datos, con documentación de arquitectura y código orientada a la escalabilidad, mantenibilidad y reutilización.
+
+* 📊 (2026) **Canal Cero - Consultoría en Marketing Mix Modeling | Automatización y Analítica de Marketing**: Participé en un proyecto de consultoría para implementar y automatizar un modelo de Marketing Mix Modeling (MMM) mediante la librería Robyn, replicable para múltiples clientes de Canal Cero, generando recomendaciones de inversión óptima por canal digital a partir de datos de ventas. Estuve a cargo del análisis de datos, la construcción de un dashboard de resultados y la automatización del pipeline de modelamiento en Python (Scikit-learn, NumPy, Matplotlib), evaluando el desempeño de los modelos mediante métricas como R², MAPE y RMSE, y midiendo el impacto en base al Uplift generado para cada cliente. 
 
 ## 🛠️ Competencias Técnicas 
 
