@@ -47,7 +47,7 @@ Frameworks de Ciencia de Datos y Machine Learning
 
 Otros
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft-Excel-green?style=flat&logo=googlesheets&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-darkgreen?style=flat&logo=overleaf&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-blue?style=flat&logoColor=white&logoSize=auto"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft-Excel-green?style=flat&logo=googlesheets&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/LaTeX-darkgreen?style=flat&logo=overleaf&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-blue?style=flat&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/-Git-grey?style=flat&logo=git">
 
 
 
